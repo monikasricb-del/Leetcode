@@ -8,12 +8,8 @@ class Solution {
             int count = 0;
             for(int j=0;j<c;j++)
             {
-                if(matrix[i][j] == 1)
-                {
-                    count++;
-                }
+                ans[i] += matrix[i][j];
             }
-            ans[i] = count;
         }
         return ans;
     }
