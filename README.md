@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/monikasricb-del/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
