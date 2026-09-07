@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/monikasricb-del/Leetcode/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/monikasricb-del/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/monikasricb-del/Leetcode/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/monikasricb-del/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/monikasricb-del/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/monikasricb-del/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3945-digit-frequency-score](https://github.com/monikasricb-del/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Number Theory
 |  |
 | ------- |
