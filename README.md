@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/monikasricb-del/Leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/monikasricb-del/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Recursion
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/monikasricb-del/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
