@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/monikasricb-del/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/monikasricb-del/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/monikasricb-del/Leetcode/tree/master/0231-power-of-two) |
+| [1154-day-of-the-year](https://github.com/monikasricb-del/Leetcode/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/monikasricb-del/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/monikasricb-del/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1154-day-of-the-year](https://github.com/monikasricb-del/Leetcode/tree/master/1154-day-of-the-year) |
 | [1796-second-largest-digit-in-a-string](https://github.com/monikasricb-del/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Recursion
 |  |
