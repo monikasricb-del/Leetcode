@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monikasricb-del/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monikasricb-del/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/monikasricb-del/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/monikasricb-del/Leetcode/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monikasricb-del/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/monikasricb-del/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/monikasricb-del/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
