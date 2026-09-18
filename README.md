@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monikasricb-del/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/monikasricb-del/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monikasricb-del/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monikasricb-del/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/monikasricb-del/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/monikasricb-del/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monikasricb-del/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monikasricb-del/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/monikasricb-del/Leetcode/tree/master/0283-move-zeroes) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/monikasricb-del/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
