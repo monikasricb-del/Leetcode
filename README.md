@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/monikasricb-del/Leetcode/tree/master/0231-power-of-two) |
 | [1154-day-of-the-year](https://github.com/monikasricb-del/Leetcode/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1641-count-sorted-vowel-strings](https://github.com/monikasricb-del/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/monikasricb-del/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/monikasricb-del/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 <!---LeetCode Topics End-->
