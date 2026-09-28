@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monikasricb-del/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/monikasricb-del/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monikasricb-del/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/monikasricb-del/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/monikasricb-del/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/monikasricb-del/Leetcode/tree/master/3945-digit-frequency-score) |
