@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monikasricb-del/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/monikasricb-del/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0058-length-of-last-word](https://github.com/monikasricb-del/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/monikasricb-del/Leetcode/tree/master/0383-ransom-note) |
