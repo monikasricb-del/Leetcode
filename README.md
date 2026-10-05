@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/monikasricb-del/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/monikasricb-del/Leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/monikasricb-del/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monikasricb-del/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/monikasricb-del/Leetcode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/monikasricb-del/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monikasricb-del/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/monikasricb-del/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monikasricb-del/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
