@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/monikasricb-del/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/monikasricb-del/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/monikasricb-del/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/monikasricb-del/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3945-digit-frequency-score](https://github.com/monikasricb-del/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 | Problem Name | Difficulty |
