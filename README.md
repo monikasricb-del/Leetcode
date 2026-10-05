@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/monikasricb-del/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/monikasricb-del/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/monikasricb-del/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1154-day-of-the-year](https://github.com/monikasricb-del/Leetcode/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/monikasricb-del/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikasricb-del/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
