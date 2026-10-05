@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/monikasricb-del/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/monikasricb-del/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monikasricb-del/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/monikasricb-del/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/monikasricb-del/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/monikasricb-del/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/monikasricb-del/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/monikasricb-del/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/monikasricb-del/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/monikasricb-del/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/monikasricb-del/Leetcode/tree/master/0231-power-of-two) |
 | [1154-day-of-the-year](https://github.com/monikasricb-del/Leetcode/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/monikasricb-del/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/monikasricb-del/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monikasricb-del/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monikasricb-del/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/monikasricb-del/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/monikasricb-del/Leetcode/tree/master/0283-move-zeroes) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monikasricb-del/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monikasricb-del/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
