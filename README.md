@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/monikasricb-del/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/monikasricb-del/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/monikasricb-del/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monikasricb-del/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monikasricb-del/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/monikasricb-del/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/monikasricb-del/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/monikasricb-del/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/monikasricb-del/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/monikasricb-del/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3945-digit-frequency-score](https://github.com/monikasricb-del/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/monikasricb-del/Leetcode/tree/master/0231-power-of-two) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/monikasricb-del/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
