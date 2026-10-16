@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/monikasricb-del/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/monikasricb-del/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/monikasricb-del/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/monikasricb-del/Leetcode/tree/main/0189-rotate-array/) | Medium |
