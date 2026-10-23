@@ -1,0 +1,11 @@
+int sortPermutation(int* nums, int numsSize) {
+    int k=-1;
+    
+    for(int i=0;i<numsSize;i++){
+        if(nums[i]!=i){
+            k=k&nums[i];
+        }
+    }
+    if(k==-1) return 0;
+    return k;
+}
